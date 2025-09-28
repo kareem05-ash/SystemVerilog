@@ -75,6 +75,13 @@
 //      1. logic    -> 1-bit (packed array)
 //      2. integer  -> 32-bit
 //      3. time     -> 64-bit (unsigned)
+// ______________________________________________________________________________
+// --------------------------------------- OOP ----------------------------------
+// It encourages reusability & modularity
+// It helps in scaling testbenches for complex designs
+// - Classes        -> Encapsulate verification components
+// - Inheritance    -> Derive new classes from existing ones
+// - Polymorphism   -> Use common interfaces for different verification scenarios
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // Example for tasks
