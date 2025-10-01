@@ -9,9 +9,9 @@ There are session notes, labs, assignments, and more....
 
 |   File/Dir    |       Contents                |
 |---------------|-------------------------------|
-|   Assignments | contants all assignments folders  |
-|   LABs        | S1, S2, -> S7   labs        |
-|   Session_Notes   | contans a file for each session summarizing session contents  |
+|   Assignments/| contants all assignments folders  |
+|   LABs/       | S1, S2, -> S7   labs        |
+|   Session_Notes/  | contans a file for each session summarizing session contents  |
 |   README.md   | Reed Me mark down file        |
 
 ---
